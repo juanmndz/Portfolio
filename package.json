@@ -2,7 +2,7 @@
   "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juanmndz.github.io",
+  "homepage": "https://github.com/juanmndz/juanmndz.github.io",
   "dependencies": {
     "material-ui": "^0.19.1",
     "prop-types": "^15.5.10",
