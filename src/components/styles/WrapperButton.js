@@ -35,7 +35,8 @@ const WrapperButton = styled.div`
   height: 36px;
   border: 2px solid #FFF;
   border-radius: 100%;
-  margin-right: 7px; /*space between*/
+  margin-right: ${props =>
+    props.icon === 'youtube' ? '0px' : '7px'};
   display: flex;
   align-items: flex-start;
   &:hover {
